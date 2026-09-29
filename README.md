@@ -13,9 +13,8 @@ This project is a proof-of-concept **Digital Twin** that pairs real-time wearabl
 Technical Stack & AI/ML Model
 * Language: Python
 * ML Engine / Framework: Scikit-Learn (Random Forest Classifier)
-* Data Processing:** Pandas, NumPy
+* Data Processing: Pandas, NumPy
 * Frontend Dashboard: Streamlit
-
 
 
  Architecture & Presentation
